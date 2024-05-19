@@ -1,0 +1,11 @@
+  ____                  _             ____        _   
+ / ___|  ___ _ ____   _(_) ___ ___   | __ )  ___ (_)  
+ \___ \ / _ \ '__\ \ / / |/ __/ _ \  |  _ \ / _ \| |  
+  ___) |  __/ |   \ V /| | (_|  __/  | |_) | (_) | |  
+ |____/ \___|_|    \_/ |_|\___\___|  |____/ \___/|_|  
+                                                     
+  :: Spring Boot ::                (v${spring-boot.version})
+
+  App Version: ${application.version}
+  Java Version: ${java.version}
+  OS: ${os.name} ${os.version}
